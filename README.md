@@ -40,8 +40,19 @@ Este projeto é uma aplicação fullstack para cadastro e listagem de pessoas, u
 1. Clone o repositório
 2. Navegue até a pasta do backend
 3. Configure o banco de dados no arquivo `application.properties`:
-```properties
-spring.datasource.url=jdbc:oracle:thin:@localhost:1521/XE
-spring.datasource.username=SYSTEM
-spring.datasource.password=123
-./mvnw spring-boot:run
+
+##🤝 Contribuindo
+Contribuições são sempre bem-vindas! Siga estes passos:
+
+Faça um fork do projeto
+Crie uma nova branch (git checkout -b feature/AmazingFeature)
+Faça commit das suas alterações (git commit -m 'Add some AmazingFeature')
+Faça push para a branch (git push origin feature/AmazingFeature)
+Abra um Pull Request
+
+## 📝 Licença
+Este projeto está sob a licença ISAAC NUNES.
+
+## 📞 Contato
+Isaac Nunes - @isaacnngt - isaacnngt@gmail.com
+Link do Projeto: https://github.com/seu-usuario/cadastro-pessoas
