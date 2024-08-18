@@ -37,4 +37,11 @@ Este projeto é uma aplicação fullstack para cadastro e listagem de pessoas, u
 
 ### Backend (Spring Boot)
 
-1. Clone o repositório:
+1. Clone o repositório
+2. Navegue até a pasta do backend
+3. Configure o banco de dados no arquivo `application.properties`:
+```properties
+spring.datasource.url=jdbc:oracle:thin:@localhost:1521/XE
+spring.datasource.username=SYSTEM
+spring.datasource.password=123
+./mvnw spring-boot:run
