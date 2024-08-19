@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.2-green)
 ![Angular](https://img.shields.io/badge/Angular-Latest-red)
-![Oracle](https://img.shields.io/badge/Oracle-XE-blue)
+![h2](https://img.shields.io/badge/H2-Database-blue) 
 
 Este projeto é uma aplicação fullstack para cadastro e listagem de pessoas, utilizando Java Spring Boot no backend e Angular no frontend.
 
